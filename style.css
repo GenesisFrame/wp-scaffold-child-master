@@ -1,0 +1,27 @@
+/*
+ Theme Name:     Scaffold Child
+ Theme URI:      http://github.com/gizburdt/wordpress-scaffold-child
+ Description:    Child theme for Scaffold
+ Author:         Gizburdt
+ Author URI:     http://gizburd.com
+ Template:       scaffold
+ Version:        1.0.0
+*/
+/*
+Theme Name: WP Scaffold
+Theme URI: https://github.com/Gizburdt/Wordpress-Scaffold
+Description: A structure for Wordpress themes
+Author: Gizburdt
+Author URI: http://ww.gizburdt.com
+Version: 0.1
+*/
+html,
+body,
+.wrapper {
+  height: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.lookbooq{ max-width: 800px; }
